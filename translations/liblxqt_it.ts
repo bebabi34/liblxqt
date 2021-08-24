@@ -85,7 +85,7 @@
     <message>
         <location filename="../lxqtpowermanager.cpp" line="169"/>
         <source>Do you want to really restart your computer? All unsaved work will be lost...</source>
-        <translation>Vuoi davvero riavviare il computer? Tutto il lavoro non salvato sarà perso...</translation>
+        <translation>Vuoi davvero riavviare il computer? Tutto il lavoro non salvato verrà perso...</translation>
     </message>
     <message>
         <location filename="../lxqtpowermanager.cpp" line="178"/>
@@ -95,7 +95,7 @@
     <message>
         <location filename="../lxqtpowermanager.cpp" line="179"/>
         <source>Do you want to really switch off your computer? All unsaved work will be lost...</source>
-        <translation>Vuoi davvero spegnere il computer? Tutto il lavoro non salvato sarà perso...</translation>
+        <translation>Vuoi davvero spegnere il computer? Tutto il lavoro non salvato verrà perso...</translation>
     </message>
     <message>
         <location filename="../lxqtpowermanager.cpp" line="188"/>
@@ -129,22 +129,22 @@
     <message>
         <location filename="../lxqtscreensaver.cpp" line="160"/>
         <source>Failed to run  &quot;%1&quot;. Ensure you have a locker/screensaver compatible with xdg-screensaver installed and running.</source>
-        <translation>Impossibile eseguire  &quot;%1&quot;. Assicurati che è installato e in esecuzione un salva/blocca-schermo compatibile con xdg-screensaver.</translation>
+        <translation>Impossibile eseguire  &quot;%1&quot;. Assicurati di avere un blocca-schermo/salva-schermo compatibile con xdg-screensaver installato e in esecuzione.</translation>
     </message>
     <message>
         <location filename="../lxqtscreensaver.cpp" line="164"/>
         <source>Failed to run  &quot;%1&quot;. Ensure the specified locker/screensaver is installed and running.</source>
-        <translation>Impossibile eseguire  &quot;%1&quot;.  Assicurati che è installato e in esecuzione lo salvaschermo impostato.</translation>
+        <translation>Impossibile eseguire  &quot;%1&quot;. Assicurati che il blocca-schermo/salva-schermo impostato sia installato e in esecuzione.</translation>
     </message>
     <message>
         <location filename="../lxqtscreensaver.cpp" line="242"/>
         <source>Lock Screen</source>
-        <translation>Blocca schermo</translation>
+        <translation>Blocca lo schermo</translation>
     </message>
     <message>
         <location filename="../lxqtscreensaver.cpp" line="155"/>
         <source>Screen Saver Error</source>
-        <translation>Errore salvaschermo</translation>
+        <translation>Errore del salva-schermo</translation>
     </message>
 </context>
 <context>
